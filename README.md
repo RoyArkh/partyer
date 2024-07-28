@@ -1,3 +1,3 @@
 # partyer
 
-The ultmate party application
+The ultimate party application
